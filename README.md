@@ -169,7 +169,6 @@ You will want to do the following steps to run the project :-
 14. Project is successfully completed. 
  
 ## Author
-
-GAURAV GARG
+PRIYANKA KUMARI
 STUDENT
 CHANDIGARH UNIVERSITY
